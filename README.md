@@ -1,12 +1,36 @@
-### English version
+#### English Version
 
-# AnalysFandangoRatings
+# Analysis of Fandango Ratings
 
-Data processing and visualization project.
+## Data Processing and Visualization Project
 
-## Description
+### Description
 
-**You are planning to watch a certain movie. Can you trust online movie ratings and reviews? Especially if the company that does the ratings and reviews also makes money from selling movie tickets. Do such companies have a tendency to give out over- or under-ratings?**
+**Planning to watch a movie and wondering if you can trust online ratings and reviews? Especially when the rating company also profits from selling movie tickets, could there be a bias in their ratings?**
 
-This project aims to analyze and visualize Fandango movie ratings to determine if there is any bias in their rating system.
+This project aims to analyze and visualize Fandango movie ratings to determine if there is any bias in their rating system. By examining the data, we seek to uncover any tendencies for overrating or underrating movies.
 
+### Project Details
+
+This project was part of my coursework and was implemented using Python. The following libraries were utilized:
+
+- **NumPy:** For numerical operations.
+- **Pandas:** For data manipulation and analysis.
+- **Seaborn:** For statistical data visualization.
+- **Matplotlib:** For creating static, animated, and interactive visualizations.
+
+All the graphs generated from this project can be found in the `results` folder.
+
+### Development Environment
+
+The project was developed using:
+- **PyCharm:** `main.py`
+- **Jupyter Notebook:**
+
+### Getting Started
+
+To get a copy of the project up and running on your local machine, follow these steps:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/den1ksk/AnalysFandangoRatings.git
