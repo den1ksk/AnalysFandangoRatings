@@ -34,5 +34,5 @@
 Чтобы создать копию проекта, выполните следующие действия:
 
 1. **Клонируем репозиторий:**
-   ``sh
+     ```sh
    git clone https://github.com/den1ksk/AnalysFandangoRatings.git
