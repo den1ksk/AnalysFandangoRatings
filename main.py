@@ -279,7 +279,8 @@ print(norm_films.nsmallest(10, 'RT_Norm'))
 
 print(norm_films.iloc[25])
 # Let's find the average rating (without Fandango)
-# 0.4+2.3+1.3+2.3+3 = 9.3; 9.3/5 = 1.86 avg rating
+# 0.4+2.3+1.3+2.3+3 = 9.3; 
+# 9.3/5 = 1.86 avg rating
 
 
 
