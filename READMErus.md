@@ -27,7 +27,7 @@
 
 Проект был разработан с использованием:
 - **PyCharm:** `main.py`
-- **Jupyter Notebook:**.
+- **Jupyter Notebook:**. `AnalysFandangoRatings.ipynb`
 
 ### Начало работы
 
