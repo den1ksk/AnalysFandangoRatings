@@ -29,7 +29,7 @@ All the graphs generated from this project can be found in the `results` folder.
 
 The project was developed using:
 - **PyCharm:** `main.py`
-- **Jupyter Notebook:**
+- **Jupyter Notebook:** `AnalysFandangoRatings.ipynb`
 
 ### Getting Started
 
